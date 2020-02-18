@@ -4,7 +4,7 @@
 #include<queue>
 #include<time.h>
 using namespace std;
-typedef struct node
+typedef struct node//22-Digital-Problems
 {
 	int matrix[5][5];
 	int row, column;
